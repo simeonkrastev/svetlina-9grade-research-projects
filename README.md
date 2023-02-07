@@ -7,7 +7,7 @@
 
 2. Mathematics in Computer Sciences
 
-3. Operating systems
+3. Operating systems + CLI workshop
 
 4. Game development
 
@@ -25,9 +25,9 @@
 
 11. Quality Assurance and testing
 
-12. Command line interfaces
+12. Visual Studio project structure + Workshop
 
-13. The Console class in .NET
+13. The Console class in .NET + Workshop
 
 14. In depth .NET
 
