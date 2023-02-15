@@ -4,11 +4,17 @@
 ### Topics:
 
 1. Programming languages
-
+    * Which are the top 10 programming languages today?
+    * What is each of them used for?
+    * What software products are made with each of them?
 2. Mathematics in Computer Sciences
-
+    * What mathematical concepts are used in software development?
+    * How are they related to coding?
+    * Which solutions rely on mathematics?
 3. Operating systems + CLI workshop
-
+    * Why are there so many different OS?
+    * What is CLI?
+    * Which are the most used commands in Windows?
 4. Game development
 
 5. Embedded programming
